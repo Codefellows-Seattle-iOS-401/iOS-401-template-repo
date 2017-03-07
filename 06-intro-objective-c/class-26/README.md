@@ -17,7 +17,6 @@
 	* **Chapter 15:** Numbers, Strings, and Collections
 
 ##Other Resources
-* [Reading Assignments](../../Resources/ra-grading-standard/)
-* [Grading Rubrics](../../Resources/)
+* [Grading Rubrics](../../resources/)
 * [Lecture Resources](lecture/)
 * [Lecture Slides](https://www.icloud.com/keynote/000T-vKYDs7Yau3UJNHq2URgA#Week6_Day1)

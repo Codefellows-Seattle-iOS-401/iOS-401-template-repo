@@ -14,7 +14,6 @@
   * **Chapter 17:** Memory Management and Automatic Reference Counting
 
 ##Other Resources
-* [Reading Assignments](../../Resources/ra-grading-standard/)
-* [Grading Rubrics](../../Resources/)
+* [Grading Rubrics](../../resources/)
 * [Lecture Resources](lecture/)
 * [Lecture Slides](https://www.icloud.com/keynote/000m0shf3CzsBXOPgyE5yadjw#Week6_Day2)

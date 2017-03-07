@@ -16,7 +16,6 @@
   * MKMapViewOverlay
 
 ##Other Resources
-* [Reading Assignments](../../Resources/ra-grading-standard/)
-* [Grading Rubrics](../../Resources/)
+* [Grading Rubrics](../../resources/)
 * [Lecture Resources](lecture/)
 * [Lecture Slides](https://www.icloud.com/keynote/0005TQgW199tOAhqmPAx-Wd8A#Week7_Day3)

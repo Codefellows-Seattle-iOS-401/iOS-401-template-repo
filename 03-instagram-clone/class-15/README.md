@@ -15,7 +15,6 @@
   * Implement Queue using an array.
 
 ##Other Resources
-* [Reading Assignments](../../Resources/ra-grading-standard/)
-* [Grading Rubrics](../../Resources/)
+* [Grading Rubrics](../../resources/)
 * [Lecture Resources](lecture/)
 * [Lecture Slides]()

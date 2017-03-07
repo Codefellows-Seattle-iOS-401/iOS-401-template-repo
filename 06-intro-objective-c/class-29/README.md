@@ -13,7 +13,6 @@
   * **Chapter 13:** Underlying C Language Features : Arrays, Functions  
 
 ##Other Resources
-* [Reading Assignments](../../Resources/ra-grading-standard/)
-* [Grading Rubrics](../../Resources/)
+* [Grading Rubrics](../../resources/)
 * [Lecture Resources](lecture/)
 * [Lecture Slides](https://www.icloud.com/keynote/0001fv5Yc5QYUMGr2wWLbIFUQ#Week6_Day4)

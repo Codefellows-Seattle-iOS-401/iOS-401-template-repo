@@ -17,8 +17,7 @@
 	* [Photos Framework](https://developer.apple.com/library/ios/documentation/Photos/Reference/Photos_Framework/index.html)  
 	* [SLComposeController](https://developer.apple.com/library/ios/documentation/NetworkingInternet/Reference/SLComposeViewController_Class/index.html)  
 
-##Other Resources  
-* [Reading Assignments](../../Resources/ra-grading-standard/)  
-* [Grading Rubrics](../../Resources/)  
-* [Lecture Resources](lecture/)  
+##Other Resources
+* [Grading Rubrics](../../resources/)
+* [Lecture Resources](lecture/)
 * [Lecture Slides](https://www.icloud.com/keynote/000m4LBd0MejMf8HT5gD5aU3g#Week3_Day3)  
