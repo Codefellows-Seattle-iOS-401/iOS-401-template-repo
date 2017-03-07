@@ -1,10 +1,10 @@
 ##Other Class Resources:
 
 ###Grading
-* [Homework Grading Standard](hw-grading-standard/)
-* [Whiteboarding Grading Standard](wb-grading-standard/)
-* [Project Week Grading Standard](pw-grading-standard/)
-* [Reading Assingment Grading Rubric](ra-grading-standard/)
+* [Homework Grading Standard](homework-grading-rubric.md)
+* [Whiteboarding Grading Standard](whiteboarding-grading-rubric.md)
+* [Project Week Grading Standard](project-week-grading-rubric.md)
+* [Reading Assingment Grading Rubric](reading-discussion-grading-rubric.md)
 
 ###Course Materials:
 * [Prework Repository](https://github.com/codefellows/iOS401-prework) - Make sure you are familiar with each of the topics covered in the Pre-Work Repository.
