@@ -14,7 +14,6 @@
   * Linked Lists
 
 ##Other Resources
-* [Reading Assignments](../../Resources/ra-grading-standard/)
-* [Grading Rubrics](../../Resources/)
+* [Grading Rubrics](../../resources/)
 * [Lecture Resources](lecture/)
 * [Lecture Slides](https://www.icloud.com/keynote/000KMDpLPEkp73gzYutBM0RZQ#Week2_Day4)

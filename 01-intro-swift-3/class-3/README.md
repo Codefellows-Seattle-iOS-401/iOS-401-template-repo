@@ -18,7 +18,6 @@
   * [Protocol Oriented Programming](https://developer.apple.com/videos/play/wwdc2015/408/)
 
 ##Other Resources
-* [Reading Assignments](../../Resources/ra-grading-standard/)
-* [Grading Rubrics](../../Resources/)
+* [Grading Rubrics](../../resources/)
 * [Lecture Resources](lecture/)
 * [Lecture Slides](https://www.icloud.com/keynote/000c81ghNQmttrE6AJQjFIRzw#Week1_Day3)
